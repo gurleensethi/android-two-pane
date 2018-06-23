@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwoPane</string>
+    <string name="display">Display</string>
+    <string name="network">Network</string>
+    <string name="network_description">Here you can manipulate various settings such as WiFi, Bluetooth, NFC and Data Services.</string>
+    <string name="display_description">Here you can manipulate various settings like Brightness, Font Size, Screen Rotation, Color Mode and Wallpaper.</string>
+    <string name="storage">Storage</string>
+    <string name="storage_description">Here you have access to inbuilt File Manager and various options such as Formatting Phone, Making Free Space and in depth storage details.</string>
+</resources>
